@@ -3,6 +3,7 @@
 *.aar
 *.ap_
 *.aab
+*.so
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -83,3 +84,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+app/release/
+app/src/main/aidl/
+app/src/main/java/com/car/naive
